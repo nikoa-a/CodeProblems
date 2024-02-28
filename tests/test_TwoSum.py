@@ -1,10 +1,10 @@
 import sys
 import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from problems.TwoSum.TwoSum import twoSum
+from problems.TwoSum.TwoSum import TwoSum
 
 def test_two_sum():
-    twoSum_instance = twoSum()
+    twoSum_instance = TwoSum()
 
     # Test case 1
     nums = [2, 7, 11, 15]

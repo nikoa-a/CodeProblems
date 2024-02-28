@@ -1,21 +1,14 @@
-class twoSum (object):
+class TwoSum (object):
 
     def twoSum(self, nums, target):
         
-        # Create a dictionary to store elements and their indexes
-        numMap = {}
+        numMap = {} # Create a dictionary to store elements and their indexes
 
-        # Iterate through the list of numbers
-        for i, num in enumerate(nums):
-            # Calculate the complement of the current number
-            complement = target - num
-            # Check if the complement exists in the dictionary
-            if complement in numMap:
-                # Retrun the indexes of the current element and its complement
-                return [numMap[complement], i]
+        for i, num in enumerate(nums): # Iterate through the list of numbers
+            complement = target - num # Calculate the complement of the current number
+            if complement in numMap: # Check if the complement exists in the dictionary
+                return [numMap[complement], i] # Retrun the indexes of the current element and its complement
             
-            # Add the current element to the dictionary
-            numMap[num] = i
+            numMap[num] = i # Add the current element to the dictionary
 
-        # If no solution is found
-        return
+        return # Return None if no solution is found
