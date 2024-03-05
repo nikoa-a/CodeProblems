@@ -4,5 +4,6 @@ This repository contains a collection of popular code problems solved using Pyth
 
 ## Table of Contents
 
-* Two Sum
-* Palindrome Number
+* [Two Sum](problems/TwoSum/)
+* [Palindrome Number](problems/PalindromeNumber/)
+* [Roman to Integer](problems/RomanToInteger/)
