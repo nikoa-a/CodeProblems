@@ -13,5 +13,5 @@ def test_roman_to_integer():
 
     # Test case 2
     strs = ["dog","racecar","car"]
-    strs = ""
+    expected = ""
     assert lcp_instance.longestCommonPrefix(strs) == expected
