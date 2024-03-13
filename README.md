@@ -12,3 +12,4 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Reverse Linked List](problems/ReverseLinkedList/)
 * [Fizz Buzz](problems/FizzBuzz/)
 * [Fibonacci Number](problems/FibonacciNumber/)
+* [Print Staircase](problems/PrintStaircase/)
