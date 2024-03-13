@@ -3,7 +3,7 @@ import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from problems.BuyAndSellStock.BuyAndSellStock import BuyAndSellStock
 
-def test_roman_to_integer():
+def test_buy_and_sell_stock():
     bass_instance = BuyAndSellStock()
 
     # Test case 1
@@ -15,3 +15,4 @@ def test_roman_to_integer():
     prices = [7,6,4,3,1]
     expected = 0
     assert bass_instance.buyAndSellStock(prices) == expected
+    

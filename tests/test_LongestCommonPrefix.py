@@ -3,7 +3,7 @@ import os
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from problems.LongestCommonPrefix.LongestCommonPrefix import LongestCommonPrefix
 
-def test_roman_to_integer():
+def test_longest_common_prefix():
     lcp_instance = LongestCommonPrefix()
 
     # Test case 1
