@@ -11,3 +11,4 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Best Time to Buy and Sell Stock](problems/BuyAndSellStock/)
 * [Reverse Linked List](problems/ReverseLinkedList/)
 * [Fizz Buzz](problems/FizzBuzz/)
+* [Fibonacci Number](problems/FibonacciNumber/)
