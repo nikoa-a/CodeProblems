@@ -14,3 +14,4 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Fibonacci Number](problems/FibonacciNumber/)
 * [Print Staircase](problems/PrintStaircase/)
 * [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/)
+* [Climbing Stairs](problems/ClimbingStairs/)
