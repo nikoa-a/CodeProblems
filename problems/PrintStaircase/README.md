@@ -10,12 +10,10 @@ The number of dashes decreases by one and the number of hash symbols increases b
 
 **Output:** 
 
---> ----#
-
---> ---##
-
---> --###
-
---> -####
-
---> #####
+```
+----#
+---##
+--###
+-####
+#####
+```

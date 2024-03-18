@@ -13,3 +13,4 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Fizz Buzz](problems/FizzBuzz/)
 * [Fibonacci Number](problems/FibonacciNumber/)
 * [Print Staircase](problems/PrintStaircase/)
+* [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/)
