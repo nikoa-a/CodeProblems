@@ -16,3 +16,4 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/)
 * [Climbing Stairs](problems/ClimbingStairs/)
 * [Number of 1 Bits](problems/NumberOf1Bits/)
+* [Same Tree](problems/SameTree/)
