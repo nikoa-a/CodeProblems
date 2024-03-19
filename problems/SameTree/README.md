@@ -9,7 +9,7 @@ Two binary trees are considered the same if they are structurally identical, and
 **Input:** p = [1,2,3], q = [1,2,3]
 
 **Output:** true
----
+
 **Example 2:**
 
 **Input:** p = [1,2], q = [1,null,2]
