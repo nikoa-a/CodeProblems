@@ -15,4 +15,3 @@ def test_contains_duplicate():
     nums = [3,2,3,4]
     expected = True
     assert cd_instance.containsDuplicate(nums) == expected
-    
