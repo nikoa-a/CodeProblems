@@ -19,3 +19,4 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Same Tree](problems/SameTree/)
 * [Contains Duplicate](problems/ContainsDuplicate/)
 * [Linked List Cycle](problems/LinkedListCycle/)
+* [Counting Bits](problems/CountingBits/)
