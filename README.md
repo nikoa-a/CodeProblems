@@ -2,22 +2,40 @@
 
 This repository contains a collection of popular code problems solved using Python.
 
-## Table of Contents
+Ctrl+F is your good friend here 🔎
 
-* [Two Sum](problems/TwoSum/)
-* [Palindrome Number](problems/PalindromeNumber/)
-* [Roman to Integer](problems/RomanToInteger/)
-* [Longest Common Prefix](problems/LongestCommonPrefix/)
-* [Best Time to Buy and Sell Stock](problems/BuyAndSellStock/)
-* [Reverse Linked List](problems/ReverseLinkedList/)
-* [Fizz Buzz](problems/FizzBuzz/)
-* [Fibonacci Number](problems/FibonacciNumber/)
+## Table of contents
+### LeetCode Blind 75
+#### Array
+* [Two Sum](problems/TwoSum/) 🟢
+* [Best Time to Buy and Sell Stock](problems/BuyAndSellStock/) 🟢
+* [Contains Duplicate](problems/ContainsDuplicate/) 🟢
+#### Binary
+* [Number of 1 Bits](problems/NumberOf1Bits/) 🟢
+* [Counting Bits](problems/CountingBits/) 🟢
+#### Dynamic Programming
+* [Climbing Stairs](problems/ClimbingStairs/) 🟢
+#### Graph
+* Coming..
+#### Interval
+* Coming..
+#### Linked List
+* [Reverse Linked List](problems/ReverseLinkedList/) 🟢
+* [Linked List Cycle](problems/LinkedListCycle/) 🟢
+#### Matrix
+* Coming..
+#### String
+* [Valid Anagram](problems/ValidAnagram/) 🟢
+#### Tree
+* [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/) 🟢
+* [Same Tree](problems/SameTree/) 
+
+### Other LeetCode Problems
+* [Fibonacci Number](problems/FibonacciNumber/) 🟢
+* [Fizz Buzz](problems/FizzBuzz/) 🟢
+* [Longest Common Prefix](problems/LongestCommonPrefix/) 🟢
+* [Palindrome Number](problems/PalindromeNumber/) 🟢
+* [Roman to Integer](problems/RomanToInteger/) 🟢
+
+### Other Problems
 * [Print Staircase](problems/PrintStaircase/)
-* [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/)
-* [Climbing Stairs](problems/ClimbingStairs/)
-* [Number of 1 Bits](problems/NumberOf1Bits/)
-* [Same Tree](problems/SameTree/)
-* [Contains Duplicate](problems/ContainsDuplicate/)
-* [Linked List Cycle](problems/LinkedListCycle/)
-* [Counting Bits](problems/CountingBits/)
-* [Valid Anagram](problems/ValidAnagram/)
