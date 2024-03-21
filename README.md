@@ -5,6 +5,7 @@ This repository contains a collection of popular code problems solved using Pyth
 Ctrl+F is your good friend here 🔎
 
 ## Table of contents
+---
 ### LeetCode Blind 75
 #### Array
 * [Two Sum](problems/TwoSum/) 🟢
@@ -29,13 +30,13 @@ Ctrl+F is your good friend here 🔎
 #### Tree
 * [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/) 🟢
 * [Same Tree](problems/SameTree/) 
-
+---
 ### Other LeetCode Problems
 * [Fibonacci Number](problems/FibonacciNumber/) 🟢
 * [Fizz Buzz](problems/FizzBuzz/) 🟢
 * [Longest Common Prefix](problems/LongestCommonPrefix/) 🟢
 * [Palindrome Number](problems/PalindromeNumber/) 🟢
 * [Roman to Integer](problems/RomanToInteger/) 🟢
-
+---
 ### Other Problems
 * [Print Staircase](problems/PrintStaircase/)
