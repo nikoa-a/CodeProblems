@@ -27,6 +27,7 @@ Ctrl+F is your good friend here 🔎
 * Coming..
 #### String
 * [Valid Anagram](problems/ValidAnagram/) 🟢
+* [Valid Parentheses](problems/ValidParentheses/) 🟢
 #### Tree
 * [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/) 🟢
 * [Same Tree](problems/SameTree/) 
