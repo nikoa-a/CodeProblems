@@ -31,6 +31,7 @@ Ctrl+F is your good friend here 🔎
 #### Tree
 * [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/) 🟢
 * [Same Tree](problems/SameTree/) 
+* [Invert Binary Tree](problems/InvertBinaryTree/) 🟢
 ---
 ### Other LeetCode Problems
 * [Fibonacci Number](problems/FibonacciNumber/) 🟢
