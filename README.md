@@ -14,6 +14,7 @@ Ctrl+F is your good friend here 🔎
 #### Binary
 * [Number of 1 Bits](problems/NumberOf1Bits/) 🟢
 * [Counting Bits](problems/CountingBits/) 🟢
+* [Missing Number](problems/MissingNumber/) 🟢
 #### Dynamic Programming
 * [Climbing Stairs](problems/ClimbingStairs/) 🟢
 #### Graph
