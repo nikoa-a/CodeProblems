@@ -9,4 +9,18 @@ class InvertBinaryTtree(object):
 
     def invertTree(self, root):
 
-        return 
+        # Base case, if root is None, return None
+        if not root:
+            return None
+
+        # Swap left and right children
+        tempLeft = root.left
+        root.left = root.right
+        root.right = tempLeft
+
+        # Recursively invert left and right children
+        self.invertTree(root.left)
+        self.invertTree(root.right)
+
+        # Return the root
+        return root
