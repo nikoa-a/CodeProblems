@@ -14,8 +14,18 @@ Given an array nums containing n distinct numbers in the range [0, n], return th
 
 **Explanation:** n = 2 since there are 2 numbers, so all numbers are in the range [0,2]. 2 is the missing number in the range since it does not appear in nums.
 
-**Example 3:**
+**Follow up:** Could you implement a solution using only O(1) extra space complexity and O(n) runtime complexity?
 
-**Input:** nums = [9,6,4,2,3,5,7,0,1] **Output:** 8
+Solved with XOR, exclusive OR, for best efficiency
 
-**Explanation:** n = 9 since there are 9 numbers, so all numbers are in the range [0,9]. 8 is the missing number in the range since it does not appear in nums.
+Easiest way of solving this is:
+
+```python
+def missingNumber(self, nums):
+
+        for n in range(len(nums) + 1):
+            if n not in nums:
+                return n
+
+        return 0
+```
