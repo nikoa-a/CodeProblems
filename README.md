@@ -24,6 +24,7 @@ Ctrl+F is your good friend here 🔎
 #### Linked List
 * [Reverse Linked List](problems/ReverseLinkedList/) 🟢
 * [Linked List Cycle](problems/LinkedListCycle/) 🟢
+* [Merge Two Sorted Lists](problems/MergeTwoSortedLists/) 🟢
 #### Matrix
 * Coming..
 #### String
