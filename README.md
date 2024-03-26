@@ -30,6 +30,7 @@ Ctrl+F is your good friend here 🔎
 #### String
 * [Valid Anagram](problems/ValidAnagram/) 🟢
 * [Valid Parentheses](problems/ValidParentheses/) 🟢
+* [Valid Palindrome](problems/ValidPalindrome/) 🟢
 #### Tree
 * [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/) 🟢
 * [Same Tree](problems/SameTree/) 
