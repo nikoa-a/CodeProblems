@@ -15,3 +15,16 @@ Given a string s, return true if it is a palindrome, or false otherwise.
 **Input:** s = "race a car" **Output:** false
 
 **Explanation:** "raceacar" is not a palindrome.
+
+Easiest solution to this problem that takes more memory:
+
+```python
+def isPalindrome(self, s):
+
+        newString = ""
+        for c in s:
+            if c.isalnum():
+                newString += c.lower()
+
+        return newString == newString[::-1]
+```
