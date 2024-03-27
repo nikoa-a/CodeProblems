@@ -13,6 +13,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Number of 1 Bits](problems/NumberOf1Bits/) 🟢
 * [Counting Bits](problems/CountingBits/) 🟢
 * [Missing Number](problems/MissingNumber/) 🟢
+* [Reverse Bits](problems/ReverseBits/) 🟢
 #### Dynamic Programming
 * [Climbing Stairs](problems/ClimbingStairs/) 🟢
 #### Graph
