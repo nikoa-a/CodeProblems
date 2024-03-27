@@ -2,8 +2,6 @@
 
 This repository contains a collection of popular code problems solved using Python.
 
-Ctrl+F is your good friend here 🔎
-
 ## Table of contents
 ---
 ### LeetCode Blind 75
@@ -35,6 +33,7 @@ Ctrl+F is your good friend here 🔎
 * [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/) 🟢
 * [Same Tree](problems/SameTree/) 
 * [Invert Binary Tree](problems/InvertBinaryTree/) 🟢
+* [Subtree of Another Tree](problems/SubtreeOfAnotherTree/) 🟢
 ---
 ### Other LeetCode Problems
 * [Fibonacci Number](problems/FibonacciNumber/) 🟢
