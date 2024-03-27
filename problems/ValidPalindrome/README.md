@@ -16,7 +16,7 @@ Given a string s, return true if it is a palindrome, or false otherwise.
 
 **Explanation:** "raceacar" is not a palindrome.
 
-Easiest solution to this problem that takes more memory:
+Easiest solution to this problem that creates new string:
 
 ```python
 def isPalindrome(self, s):
