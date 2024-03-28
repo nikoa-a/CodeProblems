@@ -4,7 +4,8 @@ Given the roots of two binary trees root and subRoot, return true if there is a 
 
 A subtree of a binary tree tree is a tree that consists of a node in tree and all of this node's descendants. The tree tree could also be considered as a subtree of itself.
 
-**Example:**
+---
 
-**Input:** root = [3,4,5,1,2], subRoot = [4,1,2]
-**Output:** true
+#### Example:
+> **Input:** root = [3,4,5,1,2], subRoot = [4,1,2]
+> **Output:** true

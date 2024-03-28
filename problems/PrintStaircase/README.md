@@ -4,11 +4,9 @@ This problem involves printing a staircase of a specified size n, where each row
 
 The number of dashes decreases by one and the number of hash symbols increases by one with each row.
 
-**Example:**
-
-**Input: n = 5**
-
-**Output:** 
+#### Example:
+> **Input: n = 5**
+> **Output:** 
 
 ```
 ----#

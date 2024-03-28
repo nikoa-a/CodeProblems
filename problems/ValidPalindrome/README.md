@@ -4,17 +4,17 @@ A phrase is a palindrome if, after converting all uppercase letters into lowerca
 
 Given a string s, return true if it is a palindrome, or false otherwise.
 
-**Example 1:**
+---
 
-**Input:** s = "A man, a plan, a canal: Panama" **Output:** true
+#### Example 1:
+> **Input:** s = "A man, a plan, a canal: Panama" 
+> **Output:** true
+> **Explanation:** "amanaplanacanalpanama" is a palindrome.
 
-**Explanation:** "amanaplanacanalpanama" is a palindrome.
-
-**Example 2:**
-
-**Input:** s = "race a car" **Output:** false
-
-**Explanation:** "raceacar" is not a palindrome.
+#### Example 2:
+> **Input:** s = "race a car" 
+> **Output:** false
+> **Explanation:** "raceacar" is not a palindrome.
 
 Easiest solution to this problem that creates new string:
 
