@@ -5,5 +5,5 @@ Write a function that takes the binary representation of an unsigned integer and
 ---
 
 #### Example 1:
-> **Input:** n = 00000000000000000000000000001011
+> **Input:** n = 00000000000000000000000000001011<br>
 > **Output:** 3

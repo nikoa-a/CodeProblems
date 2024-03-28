@@ -7,9 +7,9 @@ An Anagram is a word or phrase formed by rearranging the letters of a different 
 ---
 
 #### Example 1:
-> **Input:** s = "anagram", t = "nagaram" 
+> **Input:** s = "anagram", t = "nagaram"<br>
 > **Output:** true
 
 #### Example 2:
-> **Input:** s = "rat", t = "car" 
+> **Input:** s = "rat", t = "car"<br>
 > **Output:** false

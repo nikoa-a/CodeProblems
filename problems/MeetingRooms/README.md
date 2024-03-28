@@ -5,13 +5,13 @@ Given an array of meeting time interval objects consisting of start and end time
 ---
 
 #### Example 1:
-> **Input:** intervals = [(0,30),(5,10),(15,20)]
-> **Output:** false
-> **Explanation:**
+> **Input:** intervals = [(0,30),(5,10),(15,20)]<br>
+> **Output:** false<br>
+> **Explanation:**<br>
 > (0,30),(5,10) and (0,30),(15,20) will conflict
 
 #### Example 2:
-> **Input:** intervals = [(5,8),(9,15)]
+> **Input:** intervals = [(5,8),(9,15)]<br>
 > **Output:** true
 
 #### Note:

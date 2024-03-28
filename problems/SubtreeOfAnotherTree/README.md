@@ -7,5 +7,5 @@ A subtree of a binary tree tree is a tree that consists of a node in tree and al
 ---
 
 #### Example:
-> **Input:** root = [3,4,5,1,2], subRoot = [4,1,2]
+> **Input:** root = [3,4,5,1,2], subRoot = [4,1,2]<br>
 > **Output:** true

@@ -7,13 +7,13 @@ Given a string s, return true if it is a palindrome, or false otherwise.
 ---
 
 #### Example 1:
-> **Input:** s = "A man, a plan, a canal: Panama" 
-> **Output:** true
+> **Input:** s = "A man, a plan, a canal: Panama"<br>
+> **Output:** true<br>
 > **Explanation:** "amanaplanacanalpanama" is a palindrome.
 
 #### Example 2:
-> **Input:** s = "race a car" 
-> **Output:** false
+> **Input:** s = "race a car"<br>
+> **Output:** false<br>
 > **Explanation:** "raceacar" is not a palindrome.
 
 Easiest solution to this problem that creates new string:
