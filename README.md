@@ -17,7 +17,7 @@ This repository contains a collection of popular code problems solved using Pyth
 #### Dynamic Programming
 * [Climbing Stairs](problems/ClimbingStairs/) 🟢
 #### Graph
-* Coming..
+* [Number of Islands](problems/NumberOfIslands/) 🟡
 #### Interval
 * [Meeting Rooms](problems/MeetingRooms/) 🟢
 #### Linked List
