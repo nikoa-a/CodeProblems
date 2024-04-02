@@ -30,6 +30,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Valid Anagram](problems/ValidAnagram/) 🟢
 * [Valid Parentheses](problems/ValidParentheses/) 🟢
 * [Valid Palindrome](problems/ValidPalindrome/) 🟢
+* [Group Anagrams](problems/GroupAnagrams/) 🟡
 #### Tree
 * [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/) 🟢
 * [Same Tree](problems/SameTree/) 
