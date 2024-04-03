@@ -25,7 +25,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Linked List Cycle](problems/LinkedListCycle/) 🟢
 * [Merge Two Sorted Lists](problems/MergeTwoSortedLists/) 🟢
 #### Matrix
-* Coming..
+* [Rotate Image](problems/RotateImage/) 🟡
 #### String
 * [Valid Anagram](problems/ValidAnagram/) 🟢
 * [Valid Parentheses](problems/ValidParentheses/) 🟢
