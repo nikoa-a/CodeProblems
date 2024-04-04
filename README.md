@@ -16,6 +16,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Reverse Bits](problems/ReverseBits/) 🟢
 #### Dynamic Programming
 * [Climbing Stairs](problems/ClimbingStairs/) 🟢
+* [House Robber](problems/HouseRobber/) 🟡
 #### Graph
 * [Number of Islands](problems/NumberOfIslands/) 🟡
 #### Interval
