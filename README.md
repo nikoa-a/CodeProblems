@@ -9,6 +9,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Two Sum](problems/TwoSum/) 🟢
 * [Best Time to Buy and Sell Stock](problems/BuyAndSellStock/) 🟢
 * [Contains Duplicate](problems/ContainsDuplicate/) 🟢
+* [3Sum](problems/3Sum/) 🟡
 #### Binary
 * [Number of 1 Bits](problems/NumberOf1Bits/) 🟢
 * [Counting Bits](problems/CountingBits/) 🟢
