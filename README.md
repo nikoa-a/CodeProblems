@@ -38,6 +38,8 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Same Tree](problems/SameTree/) 
 * [Invert Binary Tree](problems/InvertBinaryTree/) 🟢
 * [Subtree of Another Tree](problems/SubtreeOfAnotherTree/) 🟢
+#### Heap
+* [Top K Frequent Elements](problems/TopKFrequentElements/) 🟡
 ---
 ### Other LeetCode Problems
 * [Fibonacci Number](problems/FibonacciNumber/) 🟢
