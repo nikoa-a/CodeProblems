@@ -45,7 +45,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Longest Common Prefix](problems/LongestCommonPrefix/) 🟢
 * [Palindrome Number](problems/PalindromeNumber/) 🟢
 * [Roman to Integer](problems/RomanToInteger/) 🟢
-* [Two Sum II](problems/TwoSum-2/) 🟡
+* [Two Sum II](problems/TwoSum2/) 🟡
 ---
 ### Other Problems
 * [Print Staircase](problems/PrintStaircase/)
