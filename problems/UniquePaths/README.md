@@ -21,3 +21,9 @@ Given the two integers m and n, return the number of possible unique paths that 
 > 1. Right -> Down -> Down<br>
 > 2. Down -> Down -> Right<br>
 > 3. Down -> Right -> Down<br>
+
+---
+
+**Solution explained in picture**
+
+<img src="UniquePathsDrawing.jpg" alt="Unique Paths Solution">
