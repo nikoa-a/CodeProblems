@@ -35,6 +35,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Valid Anagram](problems/ValidAnagram/) 🟢
 * [Valid Parentheses](problems/ValidParentheses/) 🟢
 * [Valid Palindrome](problems/ValidPalindrome/) 🟢
+* [Longest Substring w/o Repeating Characters](problems/LongestSubstringWORepeatingChar/) 🟡
 * [Group Anagrams](problems/GroupAnagrams/) 🟡
 #### Tree
 * [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/) 🟢
