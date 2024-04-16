@@ -11,6 +11,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Contains Duplicate](problems/ContainsDuplicate/) 🟢
 * [3Sum](problems/3Sum/) 🟡
 * [Maximum Subarray](problems/MaximumSubarray/) 🟡
+* [Container With Most Water](problems/ContainerWithMostWater/) 🟡
 #### Binary
 * [Number of 1 Bits](problems/NumberOf1Bits/) 🟢
 * [Counting Bits](problems/CountingBits/) 🟢
