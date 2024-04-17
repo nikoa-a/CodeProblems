@@ -21,6 +21,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Climbing Stairs](problems/ClimbingStairs/) 🟢
 * [House Robber](problems/HouseRobber/) 🟡
 * [Unique Paths](problems/UniquePaths/) 🟡
+* [Jump Game](problems/JumpGame/) 🟡
 #### Graph
 * [Number of Islands](problems/NumberOfIslands/) 🟡
 #### Interval
