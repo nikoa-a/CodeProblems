@@ -27,6 +27,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Jump Game](problems/JumpGame/) 🟡
 #### Interval
 * [Meeting Rooms](problems/MeetingRooms/) 🟢
+* [Meeting Rooms II](problems/MeetingRooms2/) 🟡
 #### Linked List
 * [Reverse Linked List](problems/ReverseLinkedList/) 🟢
 * [Linked List Cycle](problems/LinkedListCycle/) 🟢
