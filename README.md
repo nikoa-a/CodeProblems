@@ -10,7 +10,6 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Best Time to Buy and Sell Stock](problems/BuyAndSellStock/) 🟢
 * [Contains Duplicate](problems/ContainsDuplicate/) 🟢
 * [3Sum](problems/3Sum/) 🟡
-* [Maximum Subarray](problems/MaximumSubarray/) 🟡
 * [Container With Most Water](problems/ContainerWithMostWater/) 🟡
 #### Binary
 * [Number of 1 Bits](problems/NumberOf1Bits/) 🟢
@@ -21,9 +20,11 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Climbing Stairs](problems/ClimbingStairs/) 🟢
 * [House Robber](problems/HouseRobber/) 🟡
 * [Unique Paths](problems/UniquePaths/) 🟡
-* [Jump Game](problems/JumpGame/) 🟡
 #### Graph
 * [Number of Islands](problems/NumberOfIslands/) 🟡
+#### Greedy
+* [Maximum Subarray](problems/MaximumSubarray/) 🟡
+* [Jump Game](problems/JumpGame/) 🟡
 #### Interval
 * [Meeting Rooms](problems/MeetingRooms/) 🟢
 #### Linked List
