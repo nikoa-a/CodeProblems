@@ -15,5 +15,7 @@ Given an array of meeting time interval objects consisting of start and end time
 #### Example 2:
 
 > **Input:** intervals = [(4,9)]<br>
-> **Output**: 1<br>
-> **Note:** (0,8),(8,10) is not considered a conflict at 8
+> **Output**: 1
+
+#### Note:
+> (0,8),(8,10) is not considered a conflict at 8

@@ -17,3 +17,12 @@ def test_meeting_rooms():
     interval1 = Interval(4,9)
     expected = 1
     assert meeting_rooms_instance.minMeetingRooms([interval1]) == expected
+
+    # Test case 3
+    interval1 = Interval(1,5)
+    interval2 = Interval(2,6)
+    interval3 = Interval(3,7)
+    interval4 = Interval(4,8)
+    interval5 = Interval(5,9)
+    expected = 4
+    assert meeting_rooms_instance.minMeetingRooms([interval1, interval2, interval3, interval4, interval5]) == expected
