@@ -19,6 +19,7 @@ This repository contains a collection of popular code problems solved using Pyth
 #### Dynamic Programming
 * [Climbing Stairs](problems/ClimbingStairs/) 🟢
 * [House Robber](problems/HouseRobber/) 🟡
+* [House Robber II](problems/HouseRobber2/) 🟡
 * [Unique Paths](problems/UniquePaths/) 🟡
 #### Graph
 * [Number of Islands](problems/NumberOfIslands/) 🟡
