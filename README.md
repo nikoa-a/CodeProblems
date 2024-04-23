@@ -33,6 +33,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Reverse Linked List](problems/ReverseLinkedList/) 🟢
 * [Linked List Cycle](problems/LinkedListCycle/) 🟢
 * [Merge Two Sorted Lists](problems/MergeTwoSortedLists/) 🟢
+* [Reorder List](problems/ReorderList/) 🟡
 #### Matrix
 * [Rotate Image](problems/RotateImage/) 🟡
 #### String
