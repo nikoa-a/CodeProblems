@@ -31,10 +31,10 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Meeting Rooms](problems/MeetingRooms/) 🟢
 * [Meeting Rooms II](problems/MeetingRooms2/) 🟡
 #### Linked List
-* [Reverse Linked List](problems/ReverseLinkedList/) 🟢
-* [Linked List Cycle](problems/LinkedListCycle/) 🟢
-* [Merge Two Sorted Lists](problems/MergeTwoSortedLists/) 🟢
-* [Reorder List](problems/ReorderList/) 🟡
+* [Reverse Linked List](problems/Blind75/LinkedList/ReverseLinkedList/) 🟢
+* [Linked List Cycle](problems/Blind75/LinkedList/LinkedListCycle/) 🟢
+* [Merge Two Sorted Lists](problems/Blind75/LinkedList/MergeTwoSortedLists/) 🟢
+* [Reorder List](problems/Blind75/LinkedList/ReorderList/) 🟡
 #### Matrix
 * [Rotate Image](problems/RotateImage/) 🟡
 #### String
