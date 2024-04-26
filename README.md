@@ -28,9 +28,10 @@ This repository contains a collection of popular code problems solved using Pyth
 #### Greedy
 * [Maximum Subarray](problems/MaximumSubarray/) 🟡
 * [Jump Game](problems/JumpGame/) 🟡
-#### Interval
-* [Meeting Rooms](problems/MeetingRooms/) 🟢
-* [Meeting Rooms II](problems/MeetingRooms2/) 🟡
+#### Intervals
+* [Meeting Rooms](problems/Blind75/Intervals/MeetingRooms/) 🟢
+* [Insert Interval](problems/Blind75/Intervals/InsertInterval/) 🟡
+* [Meeting Rooms II](problems/Blind75/Intervals/MeetingRooms2/) 🟡
 #### Linked List
 * [Reverse Linked List](problems/Blind75/LinkedList/ReverseLinkedList/) 🟢
 * [Linked List Cycle](problems/Blind75/LinkedList/LinkedListCycle/) 🟢
