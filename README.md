@@ -17,14 +17,14 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Missing Number](problems/MissingNumber/) 🟢
 * [Reverse Bits](problems/ReverseBits/) 🟢
 #### Dynamic Programming
-* [Climbing Stairs](problems/ClimbingStairs/) 🟢
-* [House Robber](problems/HouseRobber/) 🟡
-* [House Robber II](problems/HouseRobber2/) 🟡
-* [Unique Paths](problems/UniquePaths/) 🟡
+* [Climbing Stairs](problems/Blind75/DynamicProgramming/ClimbingStairs/) 🟢
+* [House Robber](problems/Blind75/DynamicProgramming/HouseRobber/) 🟡
+* [House Robber II](problems/Blind75/DynamicProgramming/HouseRobber2/) 🟡
+* [Unique Paths](problems/Blind75/DynamicProgramming/UniquePaths/) 🟡
 #### Backtracking
 * [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
-#### Graph
-* [Number of Islands](problems/NumberOfIslands/) 🟡
+#### Graphs
+* [Number of Islands](problems/Blind75/Graphs/NumberOfIslands/) 🟡
 #### Greedy
 * [Maximum Subarray](problems/MaximumSubarray/) 🟡
 * [Jump Game](problems/JumpGame/) 🟡
