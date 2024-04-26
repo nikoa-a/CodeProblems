@@ -21,7 +21,8 @@ This repository contains a collection of popular code problems solved using Pyth
 * [House Robber](problems/HouseRobber/) 🟡
 * [House Robber II](problems/HouseRobber2/) 🟡
 * [Unique Paths](problems/UniquePaths/) 🟡
-* [Combination Sum](problems/CombinationSum/) 🟡
+#### Backtracking
+* [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
 #### Graph
 * [Number of Islands](problems/NumberOfIslands/) 🟡
 #### Greedy
