@@ -11,11 +11,12 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Contains Duplicate](problems/ContainsDuplicate/) 🟢
 * [3Sum](problems/3Sum/) 🟡
 * [Container With Most Water](problems/ContainerWithMostWater/) 🟡
-#### Binary
-* [Number of 1 Bits](problems/NumberOf1Bits/) 🟢
-* [Counting Bits](problems/CountingBits/) 🟢
-* [Missing Number](problems/MissingNumber/) 🟢
-* [Reverse Bits](problems/ReverseBits/) 🟢
+#### Bit Manipulation
+* [Number of 1 Bits](problems/Blind75/BitManipulation/NumberOf1Bits/) 🟢
+* [Counting Bits](problems/Blind75/BitManipulation/CountingBits/) 🟢
+* [Missing Number](problems/Blind75/BitManipulation/MissingNumber/) 🟢
+* [Reverse Bits](problems/Blind75/BitManipulation/ReverseBits/) 🟢
+* [Sum of Two Integers](problems/Blind75/BitManipulation/SumOfTwoIntegers/) 🟡
 #### Dynamic Programming
 * [Climbing Stairs](problems/Blind75/DynamicProgramming/ClimbingStairs/) 🟢
 * [House Robber](problems/Blind75/DynamicProgramming/HouseRobber/) 🟡
