@@ -28,8 +28,8 @@ This repository contains a collection of popular code problems solved using Pyth
 #### Graphs
 * [Number of Islands](problems/Blind75/Graphs/NumberOfIslands/) 🟡
 #### Greedy
-* [Maximum Subarray](problems/MaximumSubarray/) 🟡
-* [Jump Game](problems/JumpGame/) 🟡
+* [Maximum Subarray](problems/Blind75/Greedy/MaximumSubarray/) 🟡
+* [Jump Game](problems/Blind75/Greedy/JumpGame/) 🟡
 #### Intervals
 * [Meeting Rooms](problems/Blind75/Intervals/MeetingRooms/) 🟢
 * [Insert Interval](problems/Blind75/Intervals/InsertInterval/) 🟡
@@ -56,12 +56,12 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Top K Frequent Elements](problems/TopKFrequentElements/) 🟡
 ---
 ### Other LeetCode Problems
-* [Fibonacci Number](problems/FibonacciNumber/) 🟢
-* [Fizz Buzz](problems/FizzBuzz/) 🟢
-* [Longest Common Prefix](problems/LongestCommonPrefix/) 🟢
-* [Palindrome Number](problems/PalindromeNumber/) 🟢
-* [Roman to Integer](problems/RomanToInteger/) 🟢
-* [Two Sum II](problems/TwoSum2/) 🟡
+* [Fibonacci Number](problems/OtherLeetCode/FibonacciNumber/) 🟢
+* [Fizz Buzz](problems/OtherLeetCode/FizzBuzz/) 🟢
+* [Longest Common Prefix](problems/OtherLeetCode/LongestCommonPrefix/) 🟢
+* [Palindrome Number](problems/OtherLeetCode/PalindromeNumber/) 🟢
+* [Roman to Integer](problems/OtherLeetCode/RomanToInteger/) 🟢
+* [Two Sum II](problems/OtherLeetCode/TwoSum2/) 🟡
 ---
 ### Other Problems
-* [Print Staircase](problems/PrintStaircase/)
+* [Print Staircase](problems/Other/PrintStaircase/)
