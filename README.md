@@ -21,6 +21,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Climbing Stairs](problems/Blind75/DynamicProgramming/ClimbingStairs/) 🟢
 * [House Robber](problems/Blind75/DynamicProgramming/HouseRobber/) 🟡
 * [House Robber II](problems/Blind75/DynamicProgramming/HouseRobber2/) 🟡
+* [Longest Palindromic Substring](problems/Blind75/DynamicProgramming/LongestPalindromicSubstring/) 🟡
 * [Unique Paths](problems/Blind75/DynamicProgramming/UniquePaths/) 🟡
 #### Backtracking
 * [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
