@@ -5,12 +5,14 @@ This repository contains a collection of popular code problems solved using Pyth
 ## Table of contents
 ---
 ### LeetCode Blind 75
-#### Array
-* [Two Sum](problems/TwoSum/) 🟢
-* [Best Time to Buy and Sell Stock](problems/BuyAndSellStock/) 🟢
-* [Contains Duplicate](problems/ContainsDuplicate/) 🟢
-* [3Sum](problems/3Sum/) 🟡
-* [Container With Most Water](problems/ContainerWithMostWater/) 🟡
+#### Arrays & Hashing
+* [Two Sum](problems/Blind75/Arrays&Hashing/TwoSum/) 🟢
+* [Contains Duplicate](problems/Blind75/Arrays&Hashing/ContainsDuplicate/) 🟢
+* [Valid Anagram](problems/Blind75/Arrays&Hashing/ValidAnagram/) 🟢
+* [Group Anagrams](problems/Blind75/Arrays&Hashing/GroupAnagrams/) 🟡
+* [Top K Frequent Elements](problems/Blind75/Arrays&Hashing/TopKFrequentElements/) 🟡
+#### Backtracking
+* [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
 #### Bit Manipulation
 * [Number of 1 Bits](problems/Blind75/BitManipulation/NumberOf1Bits/) 🟢
 * [Counting Bits](problems/Blind75/BitManipulation/CountingBits/) 🟢
@@ -23,8 +25,6 @@ This repository contains a collection of popular code problems solved using Pyth
 * [House Robber II](problems/Blind75/DynamicProgramming/HouseRobber2/) 🟡
 * [Longest Palindromic Substring](problems/Blind75/DynamicProgramming/LongestPalindromicSubstring/) 🟡
 * [Unique Paths](problems/Blind75/DynamicProgramming/UniquePaths/) 🟡
-#### Backtracking
-* [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
 #### Graphs
 * [Number of Islands](problems/Blind75/Graphs/NumberOfIslands/) 🟡
 #### Greedy
@@ -41,20 +41,21 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Reorder List](problems/Blind75/LinkedList/ReorderList/) 🟡
 * [Remove Nth Node From End of List](problems/Blind75/LinkedList/RemoveNthNodeFromEndOfList/) 🟡
 #### Matrix
-* [Rotate Image](problems/RotateImage/) 🟡
-#### String
-* [Valid Anagram](problems/ValidAnagram/) 🟢
-* [Valid Parentheses](problems/ValidParentheses/) 🟢
-* [Valid Palindrome](problems/ValidPalindrome/) 🟢
-* [Longest Substring w/o Repeating Characters](problems/LongestSubstringWORepeatingChar/) 🟡
-* [Group Anagrams](problems/GroupAnagrams/) 🟡
-#### Tree
-* [Max Depth of Binary Tree](problems/MaximumDepthOfBTree/) 🟢
-* [Same Tree](problems/SameTree/) 
-* [Invert Binary Tree](problems/InvertBinaryTree/) 🟢
-* [Subtree of Another Tree](problems/SubtreeOfAnotherTree/) 🟢
-#### Heap
-* [Top K Frequent Elements](problems/TopKFrequentElements/) 🟡
+* [Rotate Image](problems/Blind75/Matrix/RotateImage/) 🟡
+#### Stack
+* [Valid Parentheses](problems/Blind75/Stack/ValidParentheses/) 🟢
+#### Sliding Window
+* [Best Time to Buy and Sell Stock](problems/Blind75/SlidingWindow/BuyAndSellStock/) 🟢
+* [Longest Substring w/o Repeating Characters](problems/Blind75/SlidingWindow/LongestSubstringWORepeatingChar/) 🟡
+#### Trees
+* [Max Depth of Binary Tree](problems/Blind75/Trees/MaximumDepthOfBTree/) 🟢
+* [Same Tree](problems/Blind75/Trees/SameTree/) 🟢
+* [Invert Binary Tree](problems/Blind75/Trees/InvertBinaryTree/) 🟢
+* [Subtree of Another Tree](problems/Blind75/Trees/SubtreeOfAnotherTree/) 🟢
+#### Two Pointers
+* [Valid Palindrome](problems/Blind75/TwoPointers/ValidPalindrome/) 🟢
+* [3Sum](problems/Blind75/TwoPointers/3Sum/) 🟡
+* [Container With Most Water](problems/Blind75/TwoPointers/ContainerWithMostWater/) 🟡
 ---
 ### Other LeetCode Problems
 * [Fibonacci Number](problems/OtherLeetCode/FibonacciNumber/) 🟢
