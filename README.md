@@ -39,6 +39,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Linked List Cycle](problems/Blind75/LinkedList/LinkedListCycle/) 🟢
 * [Merge Two Sorted Lists](problems/Blind75/LinkedList/MergeTwoSortedLists/) 🟢
 * [Reorder List](problems/Blind75/LinkedList/ReorderList/) 🟡
+* [Remove Nth Node From End of List](problems/Blind75/LinkedList/RemoveNthNodeFromEndOfList/) 🟡
 #### Matrix
 * [Rotate Image](problems/RotateImage/) 🟡
 #### String
