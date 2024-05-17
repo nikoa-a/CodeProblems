@@ -11,6 +11,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Valid Anagram](problems/Blind75/Arrays&Hashing/ValidAnagram/) 🟢
 * [Group Anagrams](problems/Blind75/Arrays&Hashing/GroupAnagrams/) 🟡
 * [Top K Frequent Elements](problems/Blind75/Arrays&Hashing/TopKFrequentElements/) 🟡
+* [String Encode And Decode](problems/Blind75/Arrays&Hashing/StringEncodeAndDecode/) 🟡
 #### Backtracking
 * [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
 #### Bit Manipulation
