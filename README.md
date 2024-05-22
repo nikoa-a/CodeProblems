@@ -43,6 +43,8 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Remove Nth Node From End of List](problems/Blind75/LinkedList/RemoveNthNodeFromEndOfList/) 🟡
 #### Matrix
 * [Rotate Image](problems/Blind75/Matrix/RotateImage/) 🟡
+#### Binary Search
+* [Find Minimum In Rotated Sorted Array](problems/Blind75/BinarySearch/FindMinInRotatedSortedArray/) 🟡
 #### Stack
 * [Valid Parentheses](problems/Blind75/Stack/ValidParentheses/) 🟢
 #### Sliding Window
