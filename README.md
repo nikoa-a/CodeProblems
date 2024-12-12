@@ -12,6 +12,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Group Anagrams](problems/Blind75/Arrays&Hashing/GroupAnagrams/) 🟡
 * [Top K Frequent Elements](problems/Blind75/Arrays&Hashing/TopKFrequentElements/) 🟡
 * [String Encode And Decode](problems/Blind75/Arrays&Hashing/StringEncodeAndDecode/) 🟡
+* [Product of Array Except Self](problems/Blind75/Arrays&Hashing/ProductOfArrayExceptSelf/) 🟡
 #### Backtracking
 * [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
 #### Bit Manipulation
