@@ -2,6 +2,8 @@
 
 This repository contains a collection of popular code problems solved using Python.
 
+Ctrl+F is your good friend here 🔎
+
 ## Table of contents
 ---
 ### LeetCode Blind 75
@@ -68,6 +70,7 @@ This repository contains a collection of popular code problems solved using Pyth
 * [Palindrome Number](problems/OtherLeetCode/PalindromeNumber/) 🟢
 * [Roman to Integer](problems/OtherLeetCode/RomanToInteger/) 🟢
 * [Two Sum II](problems/OtherLeetCode/TwoSum2/) 🟡
+* [Valid Sudoku](problems/OtherLeetCode/ValidSudoku/) 🟡
 ---
 ### Other Problems
 * [Print Staircase](problems/Other/PrintStaircase/)
