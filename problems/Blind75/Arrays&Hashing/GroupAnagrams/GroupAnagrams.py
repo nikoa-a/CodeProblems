@@ -26,3 +26,7 @@ class GroupAnagrams (object):
 
         # Return the values of the dictionary, which are the grouped anagrams
         return result.values()
+
+
+# Time complexity: O(m * n)
+# Space complexity: O(m)

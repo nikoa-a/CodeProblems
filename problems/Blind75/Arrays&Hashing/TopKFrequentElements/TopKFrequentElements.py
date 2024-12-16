@@ -2,7 +2,8 @@ import heapq
 
 class TopKFrequentElements (object):
 
-    # With heap we can achieve O(k log n) time complexity
+    # With heap we can achieve O(n log k) time complexity
+    # Where n is the length of the array and k is the number of top frequent elements.
     def topKFrequent(self, nums, k):
 
         # Initialize a dictionary to store the frequency of each number
@@ -28,3 +29,7 @@ class TopKFrequentElements (object):
 
         # Return the top k frequent elements
         return topK
+
+
+# Time complexity: O(n log k)
+# Space complexity: O(n + k)

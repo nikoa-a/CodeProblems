@@ -12,3 +12,7 @@ class TwoSum (object):
             numMap[num] = i # Add the current element to the dictionary
 
         return # Return None if no solution is found
+
+
+# Time complexity: O(n)
+# Space complexity O(n)

@@ -16,3 +16,7 @@ class ContainsDuplicate (object):
 
         # If no duplicates are found, return False
         return False
+
+
+# Time complexity: O(n)
+# Space complexity: O(n)

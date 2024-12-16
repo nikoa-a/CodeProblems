@@ -22,3 +22,7 @@ class ValidAnagram (object):
 
         # If the dictionaries are equal, the strings are anagrams
         return s_freq == t_freq
+
+
+# Time complexity: O(n + m)
+# Space complexity: O(1) since we have at most 26 different characters
