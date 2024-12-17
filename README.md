@@ -15,6 +15,7 @@ Ctrl+F is your good friend here 🔎
 * [Top K Frequent Elements](problems/Blind75/Arrays&Hashing/TopKFrequentElements/) 🟡
 * [String Encode And Decode](problems/Blind75/Arrays&Hashing/StringEncodeAndDecode/) 🟡
 * [Product of Array Except Self](problems/Blind75/Arrays&Hashing/ProductOfArrayExceptSelf/) 🟡
+* [Longest Consecutive Sequence](problems/Blind75/Arrays&Hashing/LongestConsecutiveSequence/) 🟡
 #### Backtracking
 * [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
 #### Bit Manipulation
