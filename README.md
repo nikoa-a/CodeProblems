@@ -72,6 +72,9 @@ Ctrl+F is your good friend here 🔎
 * [Roman to Integer](problems/OtherLeetCode/RomanToInteger/) 🟢
 * [Two Sum II](problems/OtherLeetCode/TwoSum2/) 🟡
 * [Valid Sudoku](problems/OtherLeetCode/ValidSudoku/) 🟡
+#### Binary Search
+* [Binary Search](problems/OtherLeetCode/BinarySearch/) 🟢
+* [Find Smallest Letter Greater Than Target](problems/OtherLeetCode/FindSmallestLetter/) 🟢
 ---
 ### Other Problems
 * [Print Staircase](problems/Other/PrintStaircase/)
