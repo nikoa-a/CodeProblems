@@ -6,7 +6,7 @@ This repository contains a collection of code problems solved using Python.
 ---
 * [Array, String, Hashing](problems/ArrayStringHashing/)
 * [Two Pointers](problems/TwoPointers/)
-
+* [Sliding Window](problems/SlidingWindow/)
 ---
 #### Backtracking
 * [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
@@ -43,15 +43,11 @@ This repository contains a collection of code problems solved using Python.
 * [Find Minimum In Rotated Sorted Array](problems/Blind75/BinarySearch/FindMinInRotatedSortedArray/) 🟡
 #### Stack
 * [Valid Parentheses](problems/Blind75/Stack/ValidParentheses/) 🟢
-#### Sliding Window
-* [Best Time to Buy and Sell Stock](problems/Blind75/SlidingWindow/BuyAndSellStock/) 🟢
-* [Longest Substring w/o Repeating Characters](problems/Blind75/SlidingWindow/LongestSubstringWORepeatingChar/) 🟡
 #### Trees
 * [Max Depth of Binary Tree](problems/Blind75/Trees/MaximumDepthOfBTree/) 🟢
 * [Same Tree](problems/Blind75/Trees/SameTree/) 🟢
 * [Invert Binary Tree](problems/Blind75/Trees/InvertBinaryTree/) 🟢
 * [Subtree of Another Tree](problems/Blind75/Trees/SubtreeOfAnotherTree/) 🟢
-
 ---
 ### Other LeetCode Problems
 * [Fibonacci Number](problems/OtherLeetCode/FibonacciNumber/) 🟢
