@@ -1,21 +1,13 @@
 # Code Problems Repository
 
-This repository contains a collection of popular code problems solved using Python.
-
-Ctrl+F is your good friend here 🔎
+This repository contains a collection of code problems solved using Python.
 
 ## Table of contents
 ---
-### LeetCode Blind 75
-#### Arrays & Hashing
-* [Two Sum](problems/Blind75/Arrays&Hashing/TwoSum/) 🟢
-* [Contains Duplicate](problems/Blind75/Arrays&Hashing/ContainsDuplicate/) 🟢
-* [Valid Anagram](problems/Blind75/Arrays&Hashing/ValidAnagram/) 🟢
-* [Group Anagrams](problems/Blind75/Arrays&Hashing/GroupAnagrams/) 🟡
-* [Top K Frequent Elements](problems/Blind75/Arrays&Hashing/TopKFrequentElements/) 🟡
-* [String Encode And Decode](problems/Blind75/Arrays&Hashing/StringEncodeAndDecode/) 🟡
-* [Product of Array Except Self](problems/Blind75/Arrays&Hashing/ProductOfArrayExceptSelf/) 🟡
-* [Longest Consecutive Sequence](problems/Blind75/Arrays&Hashing/LongestConsecutiveSequence/) 🟡
+* [Array, String, Hashing](problems/ArrayStringHashing/)
+* [Two Pointers](problems/TwoPointers/)
+
+---
 #### Backtracking
 * [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
 #### Bit Manipulation
@@ -59,10 +51,7 @@ Ctrl+F is your good friend here 🔎
 * [Same Tree](problems/Blind75/Trees/SameTree/) 🟢
 * [Invert Binary Tree](problems/Blind75/Trees/InvertBinaryTree/) 🟢
 * [Subtree of Another Tree](problems/Blind75/Trees/SubtreeOfAnotherTree/) 🟢
-#### Two Pointers
-* [Valid Palindrome](problems/Blind75/TwoPointers/ValidPalindrome/) 🟢
-* [3Sum](problems/Blind75/TwoPointers/3Sum/) 🟡
-* [Container With Most Water](problems/Blind75/TwoPointers/ContainerWithMostWater/) 🟡
+
 ---
 ### Other LeetCode Problems
 * [Fibonacci Number](problems/OtherLeetCode/FibonacciNumber/) 🟢
