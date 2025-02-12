@@ -3,6 +3,7 @@
 * [Two Sum](/problems/ArrayStringHashing/TwoSum/) 🟢
 * [Contains Duplicate](/problems/ArrayStringHashing/ContainsDuplicate/) 🟢
 * [Valid Anagram](/problems/ArrayStringHashing/ValidAnagram/) 🟢
+* [Length of Last Word](/problems/ArrayStringHashing/LengthOfLastWord/) 🟢
 * [Group Anagrams](/problems/ArrayStringHashing/GroupAnagrams/) 🟡
 * [Top K Frequent Elements](/problems/ArrayStringHashing/TopKFrequentElements/) 🟡
 * [String Encode And Decode](/problems/ArrayStringHashing/StringEncodeAndDecode/) 🟡
