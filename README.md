@@ -55,7 +55,6 @@ This repository contains a collection of code problems solved using Python.
 * [Longest Common Prefix](problems/OtherLeetCode/LongestCommonPrefix/) 🟢
 * [Palindrome Number](problems/OtherLeetCode/PalindromeNumber/) 🟢
 * [Roman to Integer](problems/OtherLeetCode/RomanToInteger/) 🟢
-* [Is Subsequence](problems/OtherLeetCode/IsSubsequence/) 🟢
 * [Two Sum II](problems/OtherLeetCode/TwoSum2/) 🟡
 * [Valid Sudoku](problems/OtherLeetCode/ValidSudoku/) 🟡
 #### Binary Search
