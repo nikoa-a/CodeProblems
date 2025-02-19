@@ -6,6 +6,7 @@
 * [Length of Last Word](/problems/ArrayStringHashing/LengthOfLastWord/) 🟢
 * [Ransom Note](/problems/ArrayStringHashing/RansomNote/) 🟢
 * [Merge Sorted Array](/problems/ArrayStringHashing/MergeSortedArray/) 🟢
+* [Remove Element](/problems/ArrayStringHashing/RemoveElement/) 🟢
 * [Group Anagrams](/problems/ArrayStringHashing/GroupAnagrams/) 🟡
 * [Top K Frequent Elements](/problems/ArrayStringHashing/TopKFrequentElements/) 🟡
 * [String Encode And Decode](/problems/ArrayStringHashing/StringEncodeAndDecode/) 🟡
