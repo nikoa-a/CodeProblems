@@ -8,6 +8,7 @@
 * [Merge Sorted Array](/problems/ArrayStringHashing/MergeSortedArray/) 🟢
 * [Remove Element](/problems/ArrayStringHashing/RemoveElement/) 🟢
 * [Merge Strings Alternately](/problems/ArrayStringHashing/MergeStringsAlternately/) 🟢
+* [Search Insert Position](/problems/ArrayStringHashing/SearchInsertPosition/) 🟢
 * [Group Anagrams](/problems/ArrayStringHashing/GroupAnagrams/) 🟡
 * [Top K Frequent Elements](/problems/ArrayStringHashing/TopKFrequentElements/) 🟡
 * [String Encode And Decode](/problems/ArrayStringHashing/StringEncodeAndDecode/) 🟡
