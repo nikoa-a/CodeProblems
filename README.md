@@ -5,6 +5,7 @@ This repository contains a collection of code problems solved using Python.
 ## Table of contents
 ---
 * [Array, String, Hashing](problems/ArrayStringHashing/)
+* [Binary Search](problems/BinarySearch/)
 * [Two Pointers](problems/TwoPointers/)
 * [Sliding Window](problems/SlidingWindow/)
 ---
@@ -39,8 +40,6 @@ This repository contains a collection of code problems solved using Python.
 * [Remove Nth Node From End of List](problems/Blind75/LinkedList/RemoveNthNodeFromEndOfList/) 🟡
 #### Matrix
 * [Rotate Image](problems/Blind75/Matrix/RotateImage/) 🟡
-#### Binary Search
-* [Find Minimum In Rotated Sorted Array](problems/Blind75/BinarySearch/FindMinInRotatedSortedArray/) 🟡
 #### Stack
 * [Valid Parentheses](problems/Blind75/Stack/ValidParentheses/) 🟢
 #### Trees
@@ -57,9 +56,6 @@ This repository contains a collection of code problems solved using Python.
 * [Roman to Integer](problems/OtherLeetCode/RomanToInteger/) 🟢
 * [Two Sum II](problems/OtherLeetCode/TwoSum2/) 🟡
 * [Valid Sudoku](problems/OtherLeetCode/ValidSudoku/) 🟡
-#### Binary Search
-* [Binary Search](problems/OtherLeetCode/BinarySearch/) 🟢
-* [Find Smallest Letter Greater Than Target](problems/OtherLeetCode/FindSmallestLetter/) 🟢
 ---
 ### Other Problems
 * [Print Staircase](problems/Other/PrintStaircase/)
