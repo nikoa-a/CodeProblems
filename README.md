@@ -6,8 +6,9 @@ This repository contains a collection of code problems solved using Python.
 ---
 * [Array, String, Hashing](problems/ArrayStringHashing/)
 * [Binary Search](problems/BinarySearch/)
-* [Two Pointers](problems/TwoPointers/)
+* [Linked List](problems/LinkedList/)
 * [Sliding Window](problems/SlidingWindow/)
+* [Two Pointers](problems/TwoPointers/)
 ---
 #### Backtracking
 * [Combination Sum](problems/Blind75/Backtracking/CombinationSum/) 🟡
@@ -32,12 +33,6 @@ This repository contains a collection of code problems solved using Python.
 * [Meeting Rooms](problems/Blind75/Intervals/MeetingRooms/) 🟢
 * [Insert Interval](problems/Blind75/Intervals/InsertInterval/) 🟡
 * [Meeting Rooms II](problems/Blind75/Intervals/MeetingRooms2/) 🟡
-#### Linked List
-* [Reverse Linked List](problems/Blind75/LinkedList/ReverseLinkedList/) 🟢
-* [Linked List Cycle](problems/Blind75/LinkedList/LinkedListCycle/) 🟢
-* [Merge Two Sorted Lists](problems/Blind75/LinkedList/MergeTwoSortedLists/) 🟢
-* [Reorder List](problems/Blind75/LinkedList/ReorderList/) 🟡
-* [Remove Nth Node From End of List](problems/Blind75/LinkedList/RemoveNthNodeFromEndOfList/) 🟡
 #### Matrix
 * [Rotate Image](problems/Blind75/Matrix/RotateImage/) 🟡
 #### Stack
