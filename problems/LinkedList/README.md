@@ -4,5 +4,6 @@
 * [Linked List Cycle](/problems/LinkedList/LinkedListCycle/) 🟢
 * [Merge Two Sorted Lists](/problems/LinkedList/MergeTwoSortedLists/) 🟢
 * [Remove Duplicates From Sorted List](/problems/LinkedList/RemoveDuplicatesSortedList/) 🟢
+* [Remove Linked List Elements](/problems/LinkedList/RemoveLinkedListElements/) 🟢
 * [Reorder List](/problems/LinkedList/ReorderList/) 🟡
 * [Remove Nth Node From End of List](/problems/LinkedList/RemoveNthNodeFromEndOfList/) 🟡
