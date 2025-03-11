@@ -8,6 +8,7 @@ This repository contains a collection of code problems solved using Python.
 * [Binary Search](problems/BinarySearch/)
 * [Linked List](problems/LinkedList/)
 * [Sliding Window](problems/SlidingWindow/)
+* [Trees](problems/Trees/)
 * [Two Pointers](problems/TwoPointers/)
 ---
 #### Backtracking
@@ -37,11 +38,6 @@ This repository contains a collection of code problems solved using Python.
 * [Rotate Image](problems/Blind75/Matrix/RotateImage/) 🟡
 #### Stack
 * [Valid Parentheses](problems/Blind75/Stack/ValidParentheses/) 🟢
-#### Trees
-* [Max Depth of Binary Tree](problems/Blind75/Trees/MaximumDepthOfBTree/) 🟢
-* [Same Tree](problems/Blind75/Trees/SameTree/) 🟢
-* [Invert Binary Tree](problems/Blind75/Trees/InvertBinaryTree/) 🟢
-* [Subtree of Another Tree](problems/Blind75/Trees/SubtreeOfAnotherTree/) 🟢
 ---
 ### Other LeetCode Problems
 * [Fibonacci Number](problems/OtherLeetCode/FibonacciNumber/) 🟢
