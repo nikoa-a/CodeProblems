@@ -46,7 +46,6 @@ This repository contains a collection of code problems solved using Python.
 ### Other LeetCode Problems
 * [Fibonacci Number](problems/OtherLeetCode/FibonacciNumber/) 🟢
 * [Fizz Buzz](problems/OtherLeetCode/FizzBuzz/) 🟢
-* [Longest Common Prefix](problems/OtherLeetCode/LongestCommonPrefix/) 🟢
 * [Palindrome Number](problems/OtherLeetCode/PalindromeNumber/) 🟢
 * [Roman to Integer](problems/OtherLeetCode/RomanToInteger/) 🟢
 * [Two Sum II](problems/OtherLeetCode/TwoSum2/) 🟡
